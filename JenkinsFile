@@ -1,7 +1,7 @@
 hiikjfdnvjndfjk {
     agent any
 
-    stages {
+    hi hello hai {
         stage('jfkjkjd') {
             steps {
                 echo 'Building..'
