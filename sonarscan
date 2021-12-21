@@ -1,6 +1,4 @@
-def repoName
-def repoURL
-def branchName
+
 pipeline {
   agent any
   tools {
