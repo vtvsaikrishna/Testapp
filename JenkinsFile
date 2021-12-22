@@ -9,7 +9,7 @@ hiikjfdnvjndfjk {
         }
         stage('Test') {
             steps {
-                echo 'Testing..'
+                echo 'hi hello..'
             }
         }
         stage('Deploy') {
